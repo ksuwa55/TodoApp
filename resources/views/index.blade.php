@@ -7,7 +7,7 @@
         </div>
         <div class="float-end">
             <a href="{{ route('task.create') }}" class="btn btn-info">
-                <i class="fa fa-plus-circle"></i> Create Task
+                <i class="fa fa-plus-circle"></i> Add Task
             </a>    
         </div>
         <div class="clearfix"></div>
@@ -75,7 +75,7 @@
             <br>
             <br>
             <a href="{{ route('task.create') }}" class="btn btn-info">
-                <i class="fa fa-plus-circle"></i> Create Task
+                <i class="fa fa-plus-circle"></i> Add Task
             </a>    
         </div>
     @endif
